@@ -1,2 +1,2 @@
-# Responsive
+# IsaacGarcia
 new repo
